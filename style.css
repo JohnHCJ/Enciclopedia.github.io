@@ -1,0 +1,62 @@
+body{
+    background: url(fondo.jpg);
+    background-size: 80rem;
+}
+
+.logo{
+    color: #fff;
+    padding: 20px;
+}
+
+.logo h1{
+    font-family: Arial Black;
+    font-size: 50px;
+    text-shadow: 4px 4px 0px #000;
+}
+
+.logo i{
+    font-size: 6rem;
+    transform: translateY(-7.5rem);
+    text-shadow: 4px 5px 0px #000;
+}
+
+.logo i:hover{
+    color: #000;
+    text-shadow: 4px 5px 0px #fff;
+    transition: .4s;
+}
+
+.ul ul li{
+    list-style: none;
+    float: left;
+    margin: 30px;
+    text-decoration: 2px 2px 0px #000;
+}
+
+.ul a{
+    color: #fff;
+    font-family: Arial Black;
+    font-size: 15px;
+    text-decoration: none;
+    text-decoration: 2px 2px 0px #000;
+}
+
+.ul a:hover{
+    color: #000;
+    text-decoration: overline;
+    transition: .3s;
+}
+
+.tomos{
+    padding: 10px;
+}
+
+.tomos img{
+    width: 550px;
+}
+
+.tomos a img{
+    margin: 50px;
+    box-shadow: 2px 2px 10px #000;
+}
+
